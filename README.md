@@ -40,5 +40,7 @@ Resolving merge conflicts
 ![jerry-merge](./img/jerry-merge-confirm.png)
 ![jerry-conflict](./img/jerry-conflict.png)
 ![jerry-resolved](./img/jerry-conflict_resolved.png)
-![](./img/)
+![pull-reqst](./img/pull__reqst.png)
+![merge-conflict](./img/merge_conflict.png)
+![resolved-conflict](./img/Resolving_conflict.png)
 
