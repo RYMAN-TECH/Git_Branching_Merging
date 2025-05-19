@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Branching & Merging Training</title>
+  <title>Git Version Control</title>
   <link rel="stylesheet" href="styles.css" />
   <style>
     body {
@@ -19,3 +19,5 @@
       padding: 20px;
       margin-bottom: 20px;
       box-shadow: 0 2px 5px rgba(0,0,0,
+
+      </body>Branching and merging are keys collaborative process in git version control</body>
