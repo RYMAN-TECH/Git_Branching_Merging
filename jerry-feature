@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head>Git</head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Branching & Merging Training</title>
@@ -12,6 +12,7 @@
       padding: 30px;
       background-color: #f4f4f4;
     }
+</body>A branch in Git represents an independent line of development</body>
 
     header, section, footer {
       background: white;
